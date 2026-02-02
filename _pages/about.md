@@ -19,6 +19,6 @@ You can view or download my resume here:
 
 ### Contact
 
-- **Email:** yourname@example.com  
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourprofile)  
-- **GitHub:** [Your Repositories](https://github.com/yourgithub)
+- **Email:** jonthomas2003@gmail.com  
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/jon-thomas-001a041a8/)  
+- **Department:** [Your Repositories](https://www.uh.edu/nsm/computer-science/)
