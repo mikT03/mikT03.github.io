@@ -20,5 +20,5 @@ You can view or download my resume here:
 ### Contact
 
 - **Email:** jonthomas2003@gmail.com  
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/jon-thomas-001a041a8/)  
-- **Department:** [Your Repositories](https://www.uh.edu/nsm/computer-science/)
+- **LinkedIn:** (https://www.linkedin.com/in/jon-thomas-001a041a8/)  
+- **Department:** (https://www.uh.edu/nsm/computer-science/)
